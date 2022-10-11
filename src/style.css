@@ -68,3 +68,10 @@ fieldset i.add {
 fieldset i.subtract {
   color: #f64545;
 }
+
+div{
+  display:flex;
+  flex-direction: column;
+  align-content: center;
+  padding-top: 10 rem;
+}
