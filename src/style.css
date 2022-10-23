@@ -69,9 +69,10 @@ fieldset i.subtract {
   color: #f64545;
 }
 
-div{
+button{
   display:flex;
   flex-direction: column;
-  align-content: center;
+  align-self: flex-end;
+  justify-content: center;
   padding-top: 10 rem;
 }
